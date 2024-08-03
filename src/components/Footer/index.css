@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.footer-container {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.heading-element {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: bold;
+}

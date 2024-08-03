@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.nav-Container {
+  background-color: #475569;
+  height: auto;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.nav-content-container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.label-color {
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #ffffff;
+}

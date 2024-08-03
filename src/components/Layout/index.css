@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.layout-out-bg {
+  background-color: #ffffff;
+  height: 80vh;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+
+.layout-content-container {
+  width: 90%;
+  background-color: #ffffff;
+}
